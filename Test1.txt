@@ -1,2 +1,2 @@
 This is the first commit to the entire repository
-AND THIS IS SOME TEXT THAT SHOULD BE REPLACED IN THE MERGE
+New added text!
